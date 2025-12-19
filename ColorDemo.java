@@ -26,7 +26,7 @@ public class ColorDemo {
 		System.out.println("G = " + yellow.getGreen()); // prints 255
 		System.out.println("B = " + yellow.getBlue());  // prints   0
 
-        // Tests the print method: 
+        // Tests the print method:  
 		System.out.print("Red = "); print(red);
 		System.out.println();
 
